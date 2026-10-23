@@ -1,0 +1,6 @@
+# 记忆库插件（DSH Bundle patch）
+# 外挂记忆库：只有用户明确开放后，agent 才能读取对应记忆。
+- insert:
+    - id: memory-vault
+      name: 'dsh-memory-vault'
+      config: {}

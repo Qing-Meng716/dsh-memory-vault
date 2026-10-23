@@ -1,0 +1,8 @@
+{
+  "meta": {
+    "title": "Memory Vault",
+    "description": "External memory vault: agents can write but not read. Only memories you explicitly open in Settings become readable by the agent. Indexed by time and event (project / category / date)."
+  },
+  "nav": "Memory Vault",
+  "pending": "Pending requests"
+}
